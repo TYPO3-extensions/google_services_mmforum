@@ -1,0 +1,2 @@
+config.google_services_mmforum.storage = 0
+config.google_services_mmforum.frontend_pid = 0
