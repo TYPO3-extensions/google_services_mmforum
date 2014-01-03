@@ -28,7 +28,8 @@ $EM_CONF[$_EXTKEY] = array(
 	'version' => '1.0.0',
 	'constraints' => array(
 		'depends' => array(
-			'google_services' => '0.2.4'
+			'google_services' => '0.2.4',
+			'typo3' => '4.5.0-4.7.99',
 		),
 		'conflicts' => array(
 		),
